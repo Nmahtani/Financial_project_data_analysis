@@ -1,5 +1,5 @@
 # Financial_project_data_analysis
-Financial project using SQL to transform data and PowerBI to visualize reports dashboard
+Financial project using SQL to transform data and PowerBI to visualize reports dashboard.
 
 ## Project Overview
 This project focuses on building an ETL (Extract, Transform, Load) pipeline to analyze financial transaction data. The project simulates real world processes where data is cleaned and transformed in **MySQL** and visualized using **PowerBI** to generate business insights for the financial industry.
@@ -12,7 +12,6 @@ This project focuses on building an ETL (Extract, Transform, Load) pipeline to a
 ## Tools and Technologies Used
 - **MySQL**: For data storage, transformation, and cleaning.
 - **PowerBI**: For data visualization and creating dashboards.
-- **Python**: For generating sample data (optional).
 - **GitHub**: To host the project for showcasing and version control.
 
 ## Dataset Description
